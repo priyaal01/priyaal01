@@ -38,22 +38,36 @@
 </div>
 <br>
 <h2 align="center">📊 My Github stats:</h2>
+<div align="center">
+   
+![](https://github-readme-stats.vercel.app/api?username=priyaal01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=priyaal01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyaal01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Quote"/>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=priyaal01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=priyaal01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=priyaal01&icon=6&color=0)](https://visitcount.itsvg.in)
+
+</div>
 <h2 align="center">🔗 Connect with me:</h2>
 <p align="center">
   <a href="mailto:priyaalgayakwad3@gmail.com">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://samarjit.vercel.app">
+  <a href=#>
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/chrome-modern-.svg" width="50" height="50" alt="Website"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/samarjitsahoo/">
+  <a href="https://www.linkedin.com/in/priyaal-gayakwad-81866b257/">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="Linkedin"/>
   </a>
 </p>
